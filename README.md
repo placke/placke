@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @placke, or Paul Acker 
-- 👀 I’m currently transitioning career from tech in construction to a dev role - always wanted to be involved in building tools that will help others
+- 👀 I’m currently transitioning career from management to a dev role - always wanted to be involved in building things with awesome people
 - 🌱 I’m currently learning Python, React, and .Net
 - 💞️ I’m looking to collaborate on any opensource projects that a junior could help with. Always looking to learn, and opportunites to do that will be eagerly taken. 
 - 📫 How to reach me https://www.linkedin.com/in/paul-acker/
